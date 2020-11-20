@@ -6,7 +6,11 @@ namespace VS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worl");
+            Console.WriteLine("Hello Worlddg");
+            for (int i = 0; i < length; i++)
+            {
+
+            }
         }
     }
 }
